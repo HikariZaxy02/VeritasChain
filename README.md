@@ -130,5 +130,7 @@ Developed as a smart contract security-focused project.
 ---
 
 <img width="1916" height="857" alt="image" src="https://github.com/user-attachments/assets/fb3b72eb-b6b7-46fc-89e5-b1c91add15b7" />
+<img width="1487" height="840" alt="image" src="https://github.com/user-attachments/assets/0b9382c3-f271-4590-92f1-c0fab0ce03b5" />
+
 
 CDS7ARZPYPT3ALF7JSDXRAPWFVRENK4RL2MJVZU3SB54IKZYNQYWUI54
